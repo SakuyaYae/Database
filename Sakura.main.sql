@@ -1,5 +1,5 @@
-create database if not exists  main;
+create database if not exists santas_database;
 
-use main;
+use santas_database;
 
 show databases;
